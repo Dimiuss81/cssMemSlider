@@ -124,7 +124,8 @@ input[name="screen"]
     margin-left: -75%;
 }
 
-@media (max-width:1024px) {
+@media (max-width:1024px) 
+{
     .doc1{
         width: 95%;
     }
@@ -136,7 +137,9 @@ input[name="screen"]
         font-size: 16px;
     }
 }
-@media (max-width:768px) {
+
+@media (max-width:768px) 
+{
     .navigation{
         justify-content: center;
     }
